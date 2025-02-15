@@ -9,7 +9,7 @@
 
 Тема нап
 
-# Install
+## Install
 
 Оформление сайта было сделано инди-студией Triangle in Tree. Данное оформление имеет название "Shikimori Galaxies".
 
