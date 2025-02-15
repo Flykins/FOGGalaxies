@@ -14,4 +14,4 @@
 Оформление сайта было сделано инди-студией Triangle in Tree. Данное оформление имеет название "Shikimori Galaxies".
 
 > [!WARNING]
-> Сайт часто выкладывает обновление оформление, в теме могут возникать ошибки, поэтому настоятельно рекомендуется следить за обновлениями темы.
+> The site is frequently updated in terms of new features and its design, bugs may occur in the theme, so it is highly recommended to keep an eye on theme updates.
