@@ -14,7 +14,7 @@ The theme is written for general use, but first of all it is written for one ani
 
 Requires an exportable line of code to be inserted into the .css notepad window. 
 
-Light Theme — @import url("https://raw.githubusercontent.com/Flykins/foggalaxies/master/theme-light.css");
+Light Theme — @import url("https://raw.githubusercontent.com/Flykins/foggalaxies/master/theme-light.css"); 
 Dark Theme — @import url("https://raw.githubusercontent.com/Flykins/foggalaxies/master/theme-dark.css");
 
 > [!WARNING]
