@@ -1,4 +1,3 @@
-![Logo](https://i.imgur.com/Vscjy0a.png)
 <p align="center">
   <img src="https://i.imgur.com/Vscjy0a.png" />
 </p>
