@@ -1,4 +1,7 @@
 ![Logo](https://i.imgur.com/Vscjy0a.png)
+<p align="center">
+  <img src="https://i.imgur.com/Vscjy0a.png" />
+</p>
 # Shikimori Galaxies
 > Theme for [Shikimori](https://shikimori.one/) by @flykins
 
@@ -9,7 +12,7 @@ The theme is written for general use, but first of all it is written for one ani
 
 ## Install
 
-Оформление сайта было сделано инди-студией Triangle in Tree. Данное оформление имеет название "Shikimori Galaxies".
+Требуется данная экспортивная ссылка 
 
 > [!WARNING]
 > The site is frequently updated in terms of new features and its design, bugs may occur in the theme, so it is highly recommended to keep an eye on theme updates.
