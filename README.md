@@ -1,4 +1,4 @@
-  ![Logo](https://i.imgur.com/Vscjy0a.png)
+                                                                        ![Logo](https://i.imgur.com/Vscjy0a.png)
 # Shikimori Galaxies
 > Theme for [Shikimori](https://shikimori.one/)
 
