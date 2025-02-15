@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://i.imgur.com/Vscjy0a.png" />
 </p>
+
 # Shikimori Galaxies
 > Theme for [Shikimori](https://shikimori.one/) by @flykins
 
